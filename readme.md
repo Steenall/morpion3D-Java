@@ -1,4 +1,4 @@
-[FR]
+# [FR]
 Gobblet's Gobbler's est un jeu de morpion en 3D.
 Ecrit en langage Java (De préférence, il faut le compiler avec JDK8).
 Crée à partir du diagramme de classe fourni par M. Zimmermann.
@@ -9,7 +9,7 @@ Si vous laissez l'option "-o" vide, le jeu va essayer de charger une sauvegarde 
 Vous pouvez utiliser l'option "-q" pour lancer une partie rapidement sans passé par le menu.
 Une IA basique a été implémenté dans le jeu.
 
-[EN]
+# [EN]
 Gobblet's Gobbler's is a 3D tic-tac-toe game.
 Written in Java language (preferably, you need to compile with JDK8).
 made with Mr Zimmermann class diagramm.
